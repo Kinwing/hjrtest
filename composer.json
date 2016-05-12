@@ -1,0 +1,34 @@
+{  
+  "name": "Kinwing/hjrtest",  
+  "description": "Yii2 Kinwing hjrtest",  
+  "keywords": [  
+    "yii2",  
+    "hjrtest"  
+  ],  
+  "homepage": "https://github.com/Kinwing/hjrtest",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/Kinwing/hjrtest"  
+  },  
+  "authors": [  
+    {  
+      "name": "Kin-wing",  
+      "email": "hjr14@163.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "kinwing\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}
