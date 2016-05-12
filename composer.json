@@ -1,15 +1,15 @@
 {  
-  "name": "Kinwing/hjrtest",  
-  "description": "Yii2 Kinwing hjrtest",  
+  "name": "kinwing/hjrtest",  
+  "description": "Yii2 kinwing hjrtest",  
   "keywords": [  
     "yii2",  
     "hjrtest"  
   ],  
-  "homepage": "https://github.com/Kinwing/hjrtest",  
+  "homepage": "https://github.com/kinwing/hjrtest",  
   "type": "yii2-extension",  
   "license": "MIT",  
   "support": {  
-    "source": "https://github.com/Kinwing/hjrtest"  
+    "source": "https://github.com/kinwing/hjrtest"  
   },  
   "authors": [  
     {  
