@@ -5,11 +5,11 @@
     "yii2",  
     "hjrtest"  
   ],  
-  "homepage": "https://github.com/kinwing/hjrtest",  
+  "homepage": "https://packagist.org/packages/kinwing/hjrtest#1.0.1",
   "type": "yii2-extension",  
   "license": "MIT",  
   "support": {  
-    "source": "https://github.com/kinwing/hjrtest"  
+    "source": "https://packagist.org/packages/kinwing/hjrtest#1.0.1"
   },  
   "authors": [  
     {  
