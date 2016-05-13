@@ -24,9 +24,9 @@
      
   },  
   "autoload": {  
-    "psr-4": {  
-      "kinwing\\": ""  
-    }  
+    "psr-4": {
+      "hjrtest\\lightbox\\":"lightbox"
+    } 
   },  
   "config": {  
     "process-timeout": 1800  
