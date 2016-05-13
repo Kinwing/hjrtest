@@ -1,6 +1,14 @@
 <?php
 namespace hjrtest\lightbox;
 
+
+
+
+
+
+
+
+
 use hjrtest\lightbox\assets\LightBoxAsset;
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
